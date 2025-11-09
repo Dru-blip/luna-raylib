@@ -1,0 +1,8 @@
+*.so
+*.o
+.vscode
+.zed
+
+compile_commands.json
+.cache
+.clang-format
